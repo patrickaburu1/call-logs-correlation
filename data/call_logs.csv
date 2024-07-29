@@ -1,0 +1,5 @@
+callStartTime, callEndTime, agentId, callerId, callDuration, callOutcome, customerSatisfaction
+2024-07-02 10:21:05,2024-07-02 10:37:16,100,125,260,resolved,5
+2024-07-02 11:20:05,2024-07-02 11:25:16,103,125,600,resolved,4
+2024-07-02 11:25:05,2024-07-02 11:35:16,103,125,600,escalated,2
+2024-07-02 11:36:05,2024-07-02 11:40:16,120,125,240,resolved,3
